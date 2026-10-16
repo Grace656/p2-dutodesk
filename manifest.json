@@ -1,0 +1,25 @@
+{
+  "name": "Duty Desk",
+  "short_name": "Duty Desk",
+  "description": "Staff duty rota for Plus Two High School, Bushenyi. Combine Effort.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#005c2d",
+  "icons": [
+    {
+      "src": "badge.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "badge.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
